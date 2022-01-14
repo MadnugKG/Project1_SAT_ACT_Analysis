@@ -117,13 +117,6 @@ Comparing ACT and SAT normalized score trend across the 3 years, most states' AC
 <br>
 <br>
 
-#### Are student scoring less due to higher average participation rate?
-|ACT Score vs Participation Rate|SAT Score vs Participation Rate|
-|:---:|:---:|
-|<img src="img/act_score_vs_participation_rate.png" width="400">|<img src="img/sat_score_vs_participation_rate.png" width="400">|
-
-From the graphs above, there is an inverse correlation between state average score vs state average participation rate. As participation rate increases, the score tends to decrease. This is probably because more academically average or poor students attended these tests, which increased the average participation rate but pulled down the average score as they are more likely to score lower during these tests.
-
 
 ### Conclusions
 In summary, with the change in SAT format in 2016, ACT was adversely affected as their yearly average participation rate had decline from 2017 to 2019. This is evident as some states had clearly opted for SAT over ACT given the sharp decline in ACT participation rate in 4 states, namely Colorado, Illinois, South Carolina and West Virginia. However, despite the declining participation rate, ACT still had overwhelming support from more states as compared to SAT.
@@ -133,3 +126,7 @@ On the other hand, when comparing the normalized scores of ACT and SAT, it is ev
 
 
 ### Recommendations
+
+Given that the goal of the students is to score as high as possible in the standard test coupled with the average participation rate for ACT declining from 2017 to 2019 and examinees scoring worst in ACT for most states, it would be advisable for the management team to consider restructuring the format to remain competitive with SAT.
+
+In the short term, they could encourage states with low to mid SAT participation rate like Alaska, Arizona, California, Oregon and etc, to have their students participate in ACT tests as those states do not exhibit a preference for either test and should be easier to persuade.
